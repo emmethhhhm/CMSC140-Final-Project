@@ -1,1 +1,6 @@
 # CMSC140-Final-Project
+This is my project that introduces users to the Aarnes-Thompson-Uther index by giving them three familiar story options (Cinderella, Sleeping Beauty, and Red Riding Hood), and asking if they would like to see randomized tales from the same ATU category as that familiar story. It progresses linearly, from introducing the ATU index to displaying a random story from the selected category. 
+I used a previously-existing GitHub csv file version of the data in the ATU index in order to create this project. By bringing that data into VScode, and organizing it into smaller csv files that were specific to my project's needs, I was able to cut down a lot of time from this project. I also got a lot of practice working with csv files. 
+I worked on this project alone (both organizing the csv files and creating the interactive part), with support from my professor, my sibling, and some googling when I needed syntax reminders. 
+To engage with this project, people can take the interactive code file and paste it into their own VScode terminal. They should also download the specific cinderella, sleeping beauty, and red riding hood csv files, and put all of these in one folder. 
+
